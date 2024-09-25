@@ -1,0 +1,25 @@
+{
+  "services": [
+    "Webサイト制作",
+    "フロントエンド開発",
+    "バックエンド開発",
+    "レスポンシブデザイン"
+  ],
+  "portfolio": [
+    {
+      "title": "ECサイト",
+      "description": "大手小売業のECサイトを開発しました。",
+      "image": "ecommerce.jpg"
+    },
+    {
+      "title": "ポートフォリオサイト",
+      "description": "写真家のポートフォリオサイトを制作しました。",
+      "image": "portfolio.jpg"
+    },
+    {
+      "title": "企業サイト",
+      "description": "IT企業の公式サイトをリニューアルしました。",
+      "image": "corporate.jpg"
+    }
+  ]
+}
