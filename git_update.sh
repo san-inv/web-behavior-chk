@@ -1,11 +1,5 @@
 #!/usr/bin/env bash
 
-#
-# Configure Git for the first time  <CAUTION!!: private information>
-#  $ git config --global user.email "y9_mochi@yahoo.co.jp"
-#  $ git config --global user.name  "SAN_INV"
-#
-
 readonly OPT_1="${1}" # オプション引数
 
 
