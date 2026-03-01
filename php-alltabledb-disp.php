@@ -2,7 +2,7 @@
 // データベース接続情報
 $servername = "localhost";
 $username = "root";
-$password = "18871887yy";
+$password = "*********";
 $dbname = "wordpress";
 
 // データベースに接続
